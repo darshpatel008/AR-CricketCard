@@ -25,7 +25,10 @@ Point your device at the physical card to see the AR content appear.
 
 AR-Card is an interactive AR experience that uses ARKit and SceneKit to create immersive environments, turning simple cards into engaging media displays.
 
-https://github.com/user-attachments/assets/b316e139-59f8-463d-a43f-08f601b4bf6c
+
+https://github.com/user-attachments/assets/65ffe017-6dcf-403d-a1b2-f9cb0f177607
+
+
 
 
 
